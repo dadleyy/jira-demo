@@ -1,0 +1,5 @@
+commit:
+  message:
+    patterns:
+      - "^\\[DEMO\\-[0-9]+\\]"
+      - "^chore\\(\\S+\\)"
